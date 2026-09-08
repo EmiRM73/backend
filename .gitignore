@@ -19,3 +19,7 @@ dist/
 .DS_Store
 Thumbs.db
 .env
+
+# Material interno del docente (no se sube al repo)
+05-metodos-autenticacion/docs/MAIL_CLASE_ASINCRONICA.md
+GUIA_DOCENTE.md
