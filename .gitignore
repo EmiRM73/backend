@@ -3,6 +3,8 @@ node_modules/
 __pycache__/
 *.pyc
 .pnpm-store/
+.venv/
+venv/
 
 # Build
 dist/
